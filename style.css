@@ -7,6 +7,7 @@ body {
     margin:0;
     background-color: rgb(20, 39, 83);
 }
+
 .body-container {
     margin: 1rem;
     padding: 1rem;
@@ -40,6 +41,13 @@ body {
     
     a.mail-link:hover {
         text-decoration: underline;
+    }
+    .img-container {
+        display: flex;
+        margin-bottom: 1rem;
+    }
+    img.logo {
+        margin: 0 auto;
     }
 }
 
